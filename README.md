@@ -1,5 +1,7 @@
 # 苍之彼方的四重奏：交予世界的答卷（蒼の彼方のフォーリズム -世界への答え-）日本語化パッチ
 
+![Screenshot](https://raw.githubusercontent.com/Kdroidwin/AokanaAsukaDoujin_JP/main/JP_Patch/game/tl/japanese/4a1cc2ff-e402-4904-a683-aecce21decbe.png)
+
 ### 対応バージョン
 - `aokana_asuka_doujin-1.0-pc`
 
